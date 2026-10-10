@@ -166,8 +166,8 @@ Data Collection
 
 ## Author
 
-Mohammad Ibrahim Tanveer
+Kushagra Mishra
 
-GitHub: https://github.com/Ibrahim45-git
+GitHub: https://github.com/iamkushagram
 
-Mail: ibrahimtnv45@gmail.com
+Mail: mkushagra1718@gmail.com
