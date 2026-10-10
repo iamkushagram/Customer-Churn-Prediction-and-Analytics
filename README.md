@@ -1,7 +1,7 @@
 # Customer Churn Prediction & Analytics
 
 # Live Deployment Link
-https://customerchurnpredictionsystemda.streamlit.app/
+https://customer-churn-prediction-and-analytics.streamlit.app/
 
 ## Project Overview
 
